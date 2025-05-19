@@ -33,7 +33,7 @@ This project investigates how to overcome these limitations using real-world dat
 
 ## 🔍 Key Results
 
-- Up to **15% reduction in energy consumption** using data-driven automation
+- Up to **15% -25% reduction in energy consumption** using data-driven automation
 - Adaptive rule-based automation designed based on **real user behavior**
 - Proposed architectural improvements for **device interoperability**
 
