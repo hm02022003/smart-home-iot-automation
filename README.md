@@ -45,7 +45,7 @@ Table 5.csv — Sample output generated during analysis
 
 🔍 Key Results
 
-Achieved 15%–25% reduction in energy consumption through data-driven automation
+Achieved 8.59% reduction in energy consumption through data-driven automation
 
 Developed adaptive rule-based mechanisms derived from real user behavior
 
