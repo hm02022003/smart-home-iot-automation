@@ -1,57 +1,71 @@
-# Smart Home IoT Automation – Bachelor Thesis Project
+Smart Home IoT Automation – Bachelor Thesis Project
 
-This repository contains the code, data, analysis, and results of my Bachelor's thesis titled **"Business IoT Issues for the Automation of Residential Buildings"**, completed by **Mahdi Houshangi**.
+This repository contains the complete codebase, datasets, analytical workflows, and results from my Bachelor's thesis, “Business IoT Issues for the Automation of Residential Buildings,” completed by Mahdi Houshangi.
 
-## 🧠 Project Overview
+🧠 Project Overview
 
-The main goal of this thesis was to explore how Business IoT and machine learning techniques can be applied to automate smart homes in a more **adaptive**, **energy-efficient**, and **user-centric** way.
+The thesis investigates how Business IoT technologies and machine learning methods can enhance smart home automation by making it more adaptive, energy-efficient, and aligned with user behavior.
+The project demonstrates how data-driven intelligence can significantly improve household energy management.
 
-## ❓ Problem Statement
+❓ Problem Statement
 
-Most current smart home systems suffer from:
-- High and unnecessary energy consumption
-- Lack of adaptive and personalized automation
-- Poor interoperability among devices from different manufacturers
+Modern smart home ecosystems often face the following challenges:
 
-This project investigates how to overcome these limitations using real-world data and AI-driven decision models.
+Excessive and avoidable energy consumption
 
-## ⚙️ Technologies & Tools Used
+Limited adaptability and lack of personalized automation
 
-- **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
-- **Visualization Tools:** Grafana, Matplotlib
-- **Machine Learning Models:** Decision Trees, Neural Networks
-- **Dataset:** 10,000-sample Smart Home IoT dataset (from Kaggle)
+Interoperability issues among devices from different vendors
 
-## 📊 Contents of This Repository
+This work addresses these limitations through real-world data analysis and the development of AI-driven automation models.
 
-- `Thesis-Mahdi Houshangi.pdf`: Full thesis document
-- `10000 Mahdi_Houshangi_sampled_smart_home_dataset.csv`: Cleaned and sampled dataset
-- `Codes.docx`: Code documentation and explanation
-- `*.png / *.jpg`: Visual analysis results (correlation heatmaps, energy trends, etc.)
-- `Table 5.csv`: Sample analysis output
+⚙️ Technologies & Tools Used
 
-## 🔍 Key Results
+Programming: Python
 
-- Up to **15% -25% reduction in energy consumption** using data-driven automation
-- Adaptive rule-based automation designed based on **real user behavior**
-- Proposed architectural improvements for **device interoperability**
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
 
-## 📈 Sample Visualizations
+Visualization: Grafana, Matplotlib
 
-Here are a few examples of the analytical insights produced:
+Models: Decision Trees, Neural Networks
 
-- Correlation heatmaps between appliances and energy usage
-- Hourly and seasonal consumption trends
-- Behavior-based energy usage predictions
+Dataset: Smart Home IoT dataset containing 10,000 samples (Kaggle)
 
-## 📜 License
+📊 Repository Contents
 
-This project is licensed under the **MIT License** — feel free to use, modify, and share with credit.
+Thesis-Mahdi_Houshangi.pdf — Complete thesis document
 
----
+10000_Mahdi_Houshangi_sampled_smart_home_dataset.csv — Cleaned and preprocessed dataset
 
-## 🤝 Acknowledgments
+Codes.docx — Code documentation and explanations
 
-Special thanks to the open-source community and the creators of the Kaggle dataset used in this research.
+Images (.png / .jpg) — Visual analytics (correlation maps, energy trends, device profiles)
 
+Table 5.csv — Sample output generated during analysis
+
+🔍 Key Results
+
+Achieved 15%–25% reduction in energy consumption through data-driven automation
+
+Developed adaptive rule-based mechanisms derived from real user behavior
+
+Proposed improvements for enhancing device interoperability in smart homes
+
+📈 Sample Insights
+
+The analysis generated several useful insights, including:
+
+Correlation structures between appliances and energy usage
+
+Hourly, daily, and seasonal consumption patterns
+
+Predictive behavior models for optimizing energy usage
+
+📜 License
+
+This project is distributed under the MIT License.
+You are free to use, modify, and share the materials with proper attribution.
+
+🤝 Acknowledgments
+
+Special appreciation goes to the open-source community and the authors of the Kaggle datasets that supported this research.
